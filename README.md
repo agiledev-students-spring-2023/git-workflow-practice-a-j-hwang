@@ -1,7 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
-
 # AI Can’t Be Beautiful
 
 Link to my article : https://jacquelinedooley.medium.com/ai-cant-be-beautiful-32f4e5952507
